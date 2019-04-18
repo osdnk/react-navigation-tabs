@@ -38,7 +38,7 @@
   "dependencies": {
     "hoist-non-react-statics": "^3.3.0",
     "react-lifecycles-compat": "^3.0.4",
-    "react-native-tab-view": "^2.0.3"
+    "react-native-tab-view": "lindesvard/react-native-tab-view#fix-change-navigation-state-index-faster"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^7.5.0",
